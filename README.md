@@ -27,29 +27,28 @@ To get started with our app, follow these simple steps:
    
 
 2. **Setup DataBase:**
-   Navigate to the cloned repository folder\n
-   Find the 'cmsdb' file
-   In SQL Server Management Studio, right-click the SQL Server instance and select Restore Database
-   Select Device and click the elipsis button to navigate to the copied backup file
-   Browse the 'cmsdb' file and select it.
-   Backup it in your PC
-   Now copy the connection string for the database.
-   
+-  Navigate to the cloned repository folder
+-  Find the 'cmsdb' file
+-  In SQL Server Management Studio, right-click the SQL Server instance and select Restore Database
+-  Select Device and click the elipsis button to navigate to the copied backup file
+-  Browse the 'cmsdb' file and select it.
+-  Backup it in your PC
+-  Now copy the connection string for the database.  
 
 3. **Open the System:**
-   Launch Visual Studio.
-   Select File > Open > Project/Solution.
-   Navigate to the cloned repository folder and select 'Canteen_Management.sln'.
-   
+-  Launch Visual Studio.
+-  Select File > Open > Project/Solution.
+-  Navigate to the cloned repository folder and select 'Canteen_Management.sln'.
+  
 
 4. **Connect Database:**
-   Open the project in Visual Studio.
-   Open the file 'databcon.vb'
-   In the connectionString variable paste the connection string of your database.
+-  Open the project in Visual Studio.
+-  Open the file 'databcon.vb'
+-  In the connectionString variable paste the connection string of your database.
 
 5. **Run the System:**
-   Select Build > Build Solution to compile the project.
-   Press F5 or click the Start button in Visual Studio to run the application.
+-  Select Build > Build Solution to compile the project.
+-  Press F5 or click the Start button in Visual Studio to run the application.
 
 
 
