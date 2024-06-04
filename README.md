@@ -23,11 +23,11 @@ To get started with our app, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/food-management-system.git
+   git clone https://github.com/martin13git/Food-Ordering-System.git
    
 
 2. **Setup DataBase:**
-   Navigate to the cloned repository folder
+   Navigate to the cloned repository folder\n
    Find the 'cmsdb' file
    In SQL Server Management Studio, right-click the SQL Server instance and select Restore Database
    Select Device and click the elipsis button to navigate to the copied backup file
